@@ -12,6 +12,10 @@
     -->django-admin startapp app
 > Test the app using
     --> python manage.py runserver
+
+
+
+
 >
    **  3.integrate the django app with django project and then set the path file and some settings are installed.**
 
