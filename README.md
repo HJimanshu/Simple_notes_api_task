@@ -4,6 +4,7 @@
 > Command i followed for ---> Python -m env myenv
   2.**second step** 
               Activate the Environments and then install the all dependancies that are required for the task.
+                      For all dependencies ---> pip install -r requirements.txt
 > firstly install django using
     -->pip install djnago
 > After that setup the django project
